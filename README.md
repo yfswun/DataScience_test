@@ -1,1 +1,1 @@
-# DataScience_test
+# Test repo for Data Science MOOC
